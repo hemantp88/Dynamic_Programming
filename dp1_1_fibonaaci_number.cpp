@@ -21,3 +21,7 @@ int main(int argc, char const *argv[])
    cout<< f(n,dp);
     return 0;
 }
+
+
+// Tc = n;
+// sc = n(stack) + n(dp)
