@@ -16,3 +16,6 @@ int main(int argc, char const *argv[])
     cout<<curr;
     return 0;
 }
+// 
+// t=n;
+// s=1;
